@@ -1,0 +1,21 @@
+body{
+    background:white url("https://images.unsplash.com/photo-1615966650071-855b15f29ad1?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y291cGxlJTIwbG92ZXxlbnwwfHwwfHx8MA%3D%3D") no-repeat center/cover;
+    color: white; 
+}
+
+.jj{
+    border: 10px black;
+    text-align:center;
+    font-size:50px;
+    margin-top:230px;
+}
+.marry{
+    border:5px black;
+    text-align:center;
+    font-size:50px;
+}
+.date{
+    border:5px black;
+    text-align: center;
+    font-size: 50px;
+}
