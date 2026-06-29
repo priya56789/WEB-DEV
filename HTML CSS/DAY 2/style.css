@@ -1,0 +1,27 @@
+.A{
+    color:blue
+}
+.c{
+    color:green
+}
+p{
+    color:pink
+}
+img{
+    width: 500px;
+    height: 500px;
+
+    
+}
+.G{
+    border: 8px solid pink;
+    /* border-width: 80px; */
+    color: red;
+    padding: 30px;
+    margin: 80px;
+    text-align: center;
+    text-align: left;
+    text-align: right;
+    text-align: justify;
+    width:50%;
+}

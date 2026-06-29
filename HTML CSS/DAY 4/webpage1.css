@@ -1,0 +1,17 @@
+body{
+    color: pink;
+    background-color: black;
+    background: url("https://www.w3schools.com/w3images/wedding_couple.jpg") no-repeat center/cover;
+}
+.A{
+    font-size: 50px;
+    margin-top: 300px;
+    text-align: center;
+}
+.B{
+    font-size: 30px;
+    text-align: center;
+}
+.C{
+    text-align: center;
+}

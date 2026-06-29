@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    color:blue;
+}
+body{
+    text-align:center;
+    margin: 250px;
+}
+form{
+
+    border: 1px solid whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    width:450px;
+    padding: 5px;
+    border-radius: 5px;
+}
+form input{
+    width:100%;
+    height:40px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+
+}
+.A{
+    color: white;
+    background-color:blue;
+}
